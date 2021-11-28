@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/MrWiZoX15](GitHub.com/MrWiZoX15)
 
-- 📫 How to reach me **mrwizoxrpz@gmail.com**
+- 📫 How to reach me **mrwizoxrpz@gmail.com** / Discord -> AWAAA#0001
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrwizox15&show_icons=true&locale=en&layout=compact" alt="mrwizox15" /></p>
 
