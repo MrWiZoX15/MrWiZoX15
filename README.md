@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrwizox15&label=Profile%20views&color=0e75b6&style=flat" alt="mrwizox15" /> </p>
 
-- 🔭 I’m currently working on **my new anticheat**
+- 🔭 I’m currently working on **my new Spigot**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/MrWiZoX15](GitHub.com/MrWiZoX15)
 
