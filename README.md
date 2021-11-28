@@ -12,6 +12,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrwizox15&show_icons=true&locale=en&layout=compact" alt="mrwizox15" /></p>
 
-[![Valerio's stats](https://wakatime.com/@mrwizox15/projects/hbgazvtmgx?start=2021-11-22&end=2021-11-28)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/badge/user/03363edb-3784-43eb-8a2b-42e66d1cb532/project/c44cc10b-0ba4-4af0-9c63-7b2ce6d7bdc6"><img src="https://wakatime.com/badge/user/03363edb-3784-43eb-8a2b-42e66d1cb532/project/c44cc10b-0ba4-4af0-9c63-7b2ce6d7bdc6.svg" alt="wakatime"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwizox15&" alt="mrwizox15" /></p>
