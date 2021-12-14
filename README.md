@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valerio</h1>
-<h3 align="center">A passionate developer from Italie</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 <h3 align="center">Living in France, working in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrwizox15&label=Profile%20views&color=0e75b6&style=flat" alt="mrwizox15" /> </p>
