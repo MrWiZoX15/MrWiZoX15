@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrwizox15&label=Profile%20views&color=0e75b6&style=flat" alt="mrwizox15" /> </p>
 <a href="https://wakatime.com/badge/user/03363edb-3784-43eb-8a2b-42e66d1cb532/project/c44cc10b-0ba4-4af0-9c63-7b2ce6d7bdc6"><img src="https://wakatime.com/badge/user/03363edb-3784-43eb-8a2b-42e66d1cb532/project/c44cc10b-0ba4-4af0-9c63-7b2ce6d7bdc6.svg" alt="IntelliJ Online Stats"></a>
 
-- 🔭 I’m currently working on **AtomSpigot**
+- 🔭 I’m currently working on **Notix Industries**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/MrWiZoX15](GitHub.com/MrWiZoX15)
+- 👨‍💻 All of my projects are available at [https://github.com/MrWiZoX15?tab=repositories](https://github.com/MrWiZoX15?tab=repositories)
 
 - 📫 How to reach me **valerio@valeriovsuniversum.me** / Discord -> AWAAA#0001
 
