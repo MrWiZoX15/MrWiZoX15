@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Notix Industries**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrWiZoX15?tab=repositories](https://github.com/MrWiZoX15?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/MrWiZoX15?tab=repositories)
 
 - 📫 How to reach me **valerio@valeriovsuniversum.me** / Discord -> AWAAA#0001
 
