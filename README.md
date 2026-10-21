@@ -11,5 +11,3 @@
 - 📫 How to reach me **info@fanelli-code.de** / Discord -> 1052962220318933003
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrwizox15&show_icons=true&locale=en&layout=compact" alt="mrwizox15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwizox15&" alt="mrwizox15" /></p>
