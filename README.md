@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Italy</h3>
 <h3 align="center">Living in France, working in Switzerland.</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MrWiZoX15)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrWiZoX15)
 
 - 🔭 I’m currently working on **Spigot Loader**
 
